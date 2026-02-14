@@ -1,0 +1,16 @@
+{
+  "clusters": [
+    {
+      "clusterusername": "username1",
+      "clusterpassword": "password1",
+      "clusterurl": "http://cluster1:8091",
+      "clustername": "Cluster-A"
+    },
+    {
+      "clusterusername": "username2",
+      "clusterpassword": "password2",
+      "clusterurl": "http://cluster2:8091",
+      "clustername": "Cluster-B"
+    }
+  ]
+}
